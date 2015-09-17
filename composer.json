@@ -15,11 +15,11 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": ">=2.0.6",
-        "yiisoft/yii2-bootstrap": "*",
-        "cebe/yii2-gravatar": "*",
-        "almasaeed2010/adminlte": "*",
-        "rmrevin/yii2-fontawesome": "*"
+        "yiisoft/yii2": ">=2.0.5",
+        "yiisoft/yii2-bootstrap": "dev-master",
+        "cebe/yii2-gravatar": "dev-master",
+        "almasaeed2010/adminlte": "dev-master",
+        "rmrevin/yii2-fontawesome": "dev-master"
     },
     "autoload": {
         "psr-4": {
