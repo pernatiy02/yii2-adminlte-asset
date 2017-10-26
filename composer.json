@@ -14,11 +14,12 @@
             "email": "et.coder@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": ">=2.0.5",
         "yiisoft/yii2-bootstrap": "dev-master",
         "cebe/yii2-gravatar": "dev-master",
-        "almasaeed2010/adminlte": "dev-master",
+        "almasaeed2010/adminlte": "*",
         "rmrevin/yii2-fontawesome": "dev-master"
     },
     "autoload": {
